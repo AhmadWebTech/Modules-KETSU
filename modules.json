@@ -25,5 +25,14 @@
             "WebToon"
         ],
         "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/Ozulscans.json"
+    },
+    {
+        "categories": [
+            "Manga",
+            "Manhua",
+            "Manhwa",
+            "WebToon"
+        ],
+        "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/Mangalek.json"
     }
 ]
