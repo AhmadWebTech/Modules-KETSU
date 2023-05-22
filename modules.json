@@ -6,7 +6,7 @@
             "Manhwa",
             "WebToon"
         ],
-        "url": "https://raw.githubusercontent.com/mprotmod/Modules-KETSU/main/Module%20Parser%20KETSU/ARESManga.json"
+        "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/ARESManga.json"
     },
     {
         "categories": [
@@ -15,7 +15,7 @@
             "Manhwa",
             "WebToon"
         ],
-        "url": "https://raw.githubusercontent.com/mprotmod/Modules-KETSU/main/Module%20Parser%20KETSU/GalaxyManga.json"
+        "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/GalaxyManga.json"
     },
     {
         "categories": [
@@ -24,6 +24,6 @@
             "Manhwa",
             "WebToon"
         ],
-        "url": "https://raw.githubusercontent.com/mprotmod/Modules-KETSU/main/Module%20Parser%20KETSU/Ozulscans.json"
+        "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/Ozulscans.json"
     }
 ]
