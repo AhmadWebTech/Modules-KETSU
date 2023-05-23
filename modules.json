@@ -43,5 +43,14 @@
             "WebToon"
         ],
         "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/AzoraManga.json"
+    },
+    {
+        "categories": [
+            "Manga",
+            "Manhua",
+            "Manhwa",
+            "WebToon"
+        ],
+        "url": "https://raw.githubusercontent.com/AhmadWebTech/Modules-KETSU/main/Module%20Parser%20KETSU/AREAManga.json"
     }
 ]
